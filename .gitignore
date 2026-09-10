@@ -10,6 +10,8 @@ Thumbs.db
 .vscode-server/
 .dotnet/
 .cache/
+.local/
+.copilot/
 *.swp
 *.swo
 
